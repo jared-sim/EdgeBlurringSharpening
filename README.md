@@ -7,10 +7,10 @@ CONTENTS OF THIS REPOSITORY
 ---------------------
 
  * edge_blurring.py
-# This script generates a cityscapes training dataset with the edges of the shapes within the images blurred.
+ ## This script generates a cityscapes training dataset with the edges of the shapes within the images blurred.
 
  * edge_sharpening.py
-# This script generates a cityscapes training dataset with the edges of the shapes within the images sharpened.
+ ## This script generates a cityscapes training dataset with the edges of the shapes within the images sharpened.
 
  * results.py
 # This script contains a variety of functions to evaluate and display results on both accuracy and shape texture bias of each model.
